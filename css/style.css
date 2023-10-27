@@ -1,0 +1,16 @@
+*{
+    background-color: wheat;
+    box-sizing: border-box;
+}
+
+body{
+    color: black;
+}
+
+h1{
+    color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+
